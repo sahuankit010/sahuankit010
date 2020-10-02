@@ -38,14 +38,11 @@ Here are some ideas to get you started:
 
 ### Github Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c)](https://shreayan98c.github.io/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010)](https://github.com/sahuankit010/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010)](https://sahuankit010.github.io/)
 
-<img align="left" alt="shreayan98c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+<img align="left" alt="sahuankit010's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
-@@ -64,4 +64,4 @@ Here are some ideas to get you started:
-[instagram]: https://www.instagram.com/shreayan98c/
-[linkedin]: https://www.linkedin.com/in/shreayan98c/
-[facebook]: https://www.facebook.com/shreayan.chaudhary
-[kaggle]: https://www.kaggle.com/shreayan98c
-[kaggle]: https://www.kaggle.com/shreayan98c
+[website]: https://sahuankit010.github.io/comm/
+[twitter]: https://twitter.com/imAsahu
+[linkedin]: https://www.linkedin.com/in/humbleguy/

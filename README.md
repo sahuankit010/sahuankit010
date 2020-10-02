@@ -33,12 +33,18 @@ Here are some ideas to get you started:
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-### Github Stats:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&layout=compact&theme=radical" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010)](https://github.com/sahuankit010/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010)](https://github.com/sahuankit010/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010)](https://sahuankit010.github.io/)
 
-<img align="left" alt="sahuankit010's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+<img align="left" alt="sahuankit010's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" /> -->
 
 [website]: https://sahuankit010.github.io/comm/
 [twitter]: https://twitter.com/imAsahu

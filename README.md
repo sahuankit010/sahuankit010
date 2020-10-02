@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for Open Source contributions.
 - ⚡ Fun fact: I love chess. In my freetime, I also play cricket.
-### Connect with me:
-[<img align="left" alt="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" src="https://sahuankit010.github.io/comm/" />][website]
-[<img align="left" alt="humbleguy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="imAsahu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 <br />
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]

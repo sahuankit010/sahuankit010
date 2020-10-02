@@ -1,9 +1,14 @@
 ### Hi there, I'm [Ankit!](https://sahuankit010.github.io/comm/) 👋
 
 <a href="https://twitter.com/imAsahu">
-  <img align="left" alt="Ankit Sahu | Twitter" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/twitter-seeklogo.com.svg" />
+  <img align="left" alt="Ankit Sahu | Twitter" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/humbleguy/">
+  <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/linkedin.svg" />
 </a>
 
+<br />
+<br />
 <!--
 **sahuankit010/sahuankit010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

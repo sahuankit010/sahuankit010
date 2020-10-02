@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 </span>
 <br />
 <br />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats.
 <br/>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&include_all_commits=true&theme=radical" alt="Ankit's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&layout=compact&theme=radical" />

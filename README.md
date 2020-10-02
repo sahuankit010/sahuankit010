@@ -1,4 +1,8 @@
-### Hi there, I'm Ankit! 👋
+### Hi there, I'm [Ankit!](https://sahuankit010.github.io/comm/) 👋
+
+<a href="https://twitter.com/imAsahu">
+  <img align="left" alt="Ankit Sahu | Twitter" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/twitter-seeklogo.com.svg" />
+</a>
 
 <!--
 **sahuankit010/sahuankit010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +37,7 @@ Here are some ideas to get you started:
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
 </span>
-
+<br>
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -43,11 +47,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&layout=compact&theme=radical" />
 </a>
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010)](https://github.com/sahuankit010/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010)](https://sahuankit010.github.io/)
-
-<img align="left" alt="sahuankit010's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" /> -->
 
 [website]: https://sahuankit010.github.io/comm/
 [twitter]: https://twitter.com/imAsahu

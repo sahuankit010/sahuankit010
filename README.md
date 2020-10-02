@@ -6,8 +6,6 @@
 <a href="https://www.linkedin.com/in/humbleguy/">
   <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/linkedin.svg" />
 </a>
-
-<br />
 <br />
 <!--
 **sahuankit010/sahuankit010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,10 +47,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahuankit010&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&layout=compact&theme=radical" />
 </a>
-
-[website]: https://sahuankit010.github.io/comm/
-[twitter]: https://twitter.com/imAsahu
-[linkedin]: https://www.linkedin.com/in/humbleguy/

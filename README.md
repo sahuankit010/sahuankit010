@@ -1,6 +1,6 @@
-### Hi there, I'm Shreayan! 👋 
+### Hi there, I'm Ankit! 👋 
 <!--
-**shreayan98c/shreayan98c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sahuankit010/sahuankit010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,18 +11,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm an aspiring data scientist, a machine learning engineer and a web developer!
-- 🔭 I’m currently researching and experimenting on ML and NLP!
+### I'm an aspiring Software Developer, a machine learning engineer and a web developer!
+- 🔭 I’m currently working as a Software Engineer in GE Digital Bangalore.
+- 🔭 I love to solve data structure and algorithms problems.
 - 🌱 I’m currently learning something new everyday.
-- 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 🥅 2020 Goals: Participate in more Hackathons and contribute more to Open Source projects.
-- ⚡ Fun fact: I love chess and play keyboard. In my freetime, I also play soccer.
+- 👯 I’m looking to collaborate with other developers for Open Source contributions.
+- 🥅 2020 Goals: Participate in more coding competitions and contribute more to Open Source projects.
+- ⚡ Fun fact: I love chess. In my freetime, I also play cricket.
 ### Connect with me:
-[<img align="left" alt="shreayan98c.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shreayan98c | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shreayan98c | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shreayan98c | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="shreayan98c | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="https://sahuankit010.github.io/comm/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="humbleguy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="imAsahu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 <br />
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]

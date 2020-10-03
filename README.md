@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Engineer in GE Digital Bangalore.
 - 🔭 I love to solve data structure and algorithms problems.
 - 🌱 I’m currently learning something new everyday.
-- 👯 I’m looking to collaborate with other developers for Open Source contributions.
+- 👯 I’m looking forward to collaborate with other developers for Open Source contributions.
 - ⚡ Fun fact: I love chess. In my freetime, I also play cricket.
   <br />
 

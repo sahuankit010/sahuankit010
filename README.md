@@ -1,4 +1,4 @@
-### Hi there, I'm [Ankit!](https://personal.utdallas.edu/~axs210226/)) 👋
+### Hi there, I'm [Ankit!](https://personal.utdallas.edu/~axs210226/) 👋
 <!-- <a href="(https://personal.utdallas.edu/~axs210226/)" target="_blank">Hi there, I'm Ankit! 👋</a> -->
 
 

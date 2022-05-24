@@ -1,4 +1,4 @@
-### Hi there, I'm [Ankit!](https://sahuankit010.github.io/comm/) 👋
+### Hi there, I'm [Ankit!]([https://personal.utdallas.edu/](https://personal.utdallas.edu/~axs210226)) 👋
 
 <a href="https://twitter.com/imAsahu">
   <img align="left" alt="Ankit Sahu | Twitter" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/twitter.svg" />

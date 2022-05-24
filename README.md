@@ -1,4 +1,5 @@
-### Hi there, I'm [Ankit!](https://personal.utdallas.edu/~axs210226/)) 👋
+### <a href="(https://personal.utdallas.edu/~axs210226/)" target="_blank">Hi there, I'm [Ankit!](https://personal.utdallas.edu/~axs210226/)) 👋</a>
+<!-- Hi there, I'm [Ankit!](https://personal.utdallas.edu/~axs210226/)) 👋 -->
 
 <a href="https://twitter.com/imAsahu">
   <img align="left" alt="Ankit Sahu | Twitter" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/twitter.svg" />

@@ -53,3 +53,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&layout=compact&theme=radical" />
 </a>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?sahuankit010" frameborder="0"></iframe>

@@ -1,8 +1,5 @@
 ## Namaste, I'm [Ankit Sahu!](https://personal.utdallas.edu/~axs210226/) 👋
 
-<a href="https://twitter.com/imAsahu">
-  <img align="left" alt="Ankit Sahu | Twitter" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/humbleguy/">
   <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/linkedin.svg" />
 </a>
@@ -22,7 +19,9 @@ Here are some ideas to get you started:
 
 ### I'm an aspiring Software Developer, a Competitive Coder and a Web Developer!
 
-- 🔭 I’m currently working as a Software Engineer in GE Digital Bangalore.
+
+- 🔭 I’m currently full time masters CS student at UTD, Texas.
+- 🔭 Back in 2020-21 I worked as a Software Engineer at GE Digital Bangalore.
 - 🔭 I love to solve data structure and algorithms problems.
 - 🌱 I’m currently learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for Open Source contributions.
@@ -35,6 +34,7 @@ Here are some ideas to get you started:
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
 </span>
 <br />

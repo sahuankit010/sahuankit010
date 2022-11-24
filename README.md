@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm an aspiring Software Developer, a Competitive Coder and a Web Developer!
+### I'm a Software Developer and a Competitive Coder!
 
 
 - 🔭 I’m currently full time masters CS student at UTD, Texas.

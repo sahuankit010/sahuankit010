@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <br />
 
 # 📊GitHub Stats :
+![](https://github.com/sahuankit010/stats/blob/master/generated/overview.svg)
 ![](https://github.com/sahuankit010/stats/blob/master/generated/languages.svg)
 
 ### ✍️Random Dev Quote

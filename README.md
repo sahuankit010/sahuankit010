@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahuankit010&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&theme=flag-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️Random Dev Quote

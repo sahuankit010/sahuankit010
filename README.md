@@ -39,10 +39,7 @@ Here are some ideas to get you started:
 <br />
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahuankit010&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github.com/sahuankit010/stats/blob/master/generated/languages.svg)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

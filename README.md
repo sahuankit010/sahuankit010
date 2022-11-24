@@ -42,13 +42,11 @@ Here are some ideas to get you started:
 ![](https://github.com/sahuankit010/stats/blob/master/generated/overview.svg)
 ![](https://github.com/sahuankit010/stats/blob/master/generated/languages.svg)
 <br>
+![](https://github-readme-stats.vercel.app/api?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahuankit010&theme=flag-india&hide_border=true)<br/>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 ## 💰You can help me by Donating

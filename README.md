@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahuankit010&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Ankit's Github Status](https://github.com/sahuankit010/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/sahuankit010/github-stats/blob/master/generated/overview.svg)
 
 
 ### ✍️Random Dev Quote

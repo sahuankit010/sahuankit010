@@ -43,11 +43,6 @@ Here are some ideas to get you started:
 ![](https://github.com/sahuankit010/stats/blob/master/generated/languages.svg)
 <br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahuankit010&theme=flag-india&hide_border=true)<br/>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sahuankit010) 

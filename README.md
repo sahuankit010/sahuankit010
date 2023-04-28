@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently full time masters CS student at UTD, Texas.
-- 🔭 I worked as a Software Engineer at GE Digital Bangalore in 2020-2021.
 - 🔭 I love to solve data structure and algorithms problems.
 - 🌱 I’m currently learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for Open Source contributions.

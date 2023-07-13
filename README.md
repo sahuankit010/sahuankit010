@@ -1,4 +1,4 @@
-## Namaste, I'm [Ankit Sahu!](https://personal.utdallas.edu/~axs210226/) 👋
+## Namaste, I'm [Ankit Sahu!](https://sahuankit010.github.io/comm/) 👋
 
 <a href="https://www.linkedin.com/in/humbleguy/">
   <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/linkedin.svg" />

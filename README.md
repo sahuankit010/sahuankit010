@@ -1,6 +1,6 @@
 ## Namaste, I'm [Ankit Sahu!](https://sahuankit010.github.io/comm/) 👋
 
-<a href="https://www.linkedin.com/in/humbleguy/">
+<a href="https://www.linkedin.com/in/sahuankit010/">
   <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/linkedin.svg" />
 </a>
 <br />

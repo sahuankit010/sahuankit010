@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 ### I'm a Software Developer and a Competitive Coder!
 
 
-- 🔭 I’m currently full time masters CS student at UTD, Texas.
-- 🔭 I love to solve data structure and algorithms problems.
+- 🔭 I’m currently a full-time Master CS student at UTD, Texas.
+- 🔭 I love to solve data structure and algorithm problems
+- I love to read and research about databases and storage systems, operating systems.
 - 🌱 I’m currently learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for Open Source contributions.
 - ⚡ Fun fact: I love chess. In my freetime, I also play cricket.

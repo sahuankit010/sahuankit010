@@ -42,10 +42,6 @@ Here are some ideas to get you started:
 <br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sahuankit010&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
-## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sahuankit010) 
-<div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
 
 </div>

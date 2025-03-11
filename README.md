@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ### I'm a Software Developer and a Competitive Coder!
 
 
-- 🔭 I’m currently a full-time Master CS student at UTD, Texas.
+- 🔭 I am a full-stack Software Engineer at Antera Software, USA.
+- 🔭 I did my Master's in Computer Science and Bachelor's in Software Engineering.
 - 🔭 I love to solve data structure and algorithm problems
 - I love to read and research about databases and storage systems, operating systems.
 - 🌱 I’m currently learning something new everyday.
